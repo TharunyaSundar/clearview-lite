@@ -1,0 +1,16 @@
+loan_id,borrower,amount,interest_rate,term_months,credit_score,defaulted,loan_type,state,issue_date
+L001,Alice Johnson,25000,6.5,36,720,False,personal,CA,2021-01-15
+L002,Bob Smith,12000,8.1,24,650,False,auto,NY,2021-03-10
+L003,Charlie Lee,30000,5.9,60,780,False,home,TX,2020-12-01
+L004,Diana Prince,15000,10.5,36,580,True,personal,FL,2022-06-20
+L005,Ethan Brown,20000,7.2,48,700,False,auto,WA,2021-08-25
+L006,Farah Green,10000,9.0,24,630,True,personal,OH,2023-01-05
+L007,George White,35000,6.0,60,770,False,home,CA,2020-09-18
+L008,Hannah Kim,18000,7.5,36,690,False,auto,NV,2022-02-14
+L009,Ian Davis,22000,8.3,36,640,True,personal,TX,2021-11-02
+L010,Julia Patel,28000,5.8,60,800,False,home,NY,2020-05-30
+L011,Kyle Zhang,16000,9.4,36,610,True,auto,GA,2022-03-11
+L012,Lena Cruz,19000,7.8,48,710,False,personal,FL,2021-07-22
+L013,Marcus Reed,14000,8.9,24,660,False,auto,AZ,2023-04-17
+L014,Nina Torres,26000,6.2,60,750,False,home,CO,2020-10-01
+L015,Omar Khan,17500,9.1,36,600,True,personal,IL,2022-12-05
